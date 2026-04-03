@@ -7,7 +7,7 @@ For observations corresponding to the "navigate to <target_object>", consider:
 - If the <target_object> is not visible, the likelihood that the surroundings indicate it is nearby.
 - If the <target_object> is visible, proximity to the object and readiness for grasping.
 
-For observations corresponding to the "pick at <target_object>", consider:
+For observations corresponding to the "pick <target_object>", consider:
 - Visibility and clarity of the <target_object> for grasping.
 - Accessibility of the object without occlusion or obstruction.
 - Suitability of the current angle and position for reliable grasping.
